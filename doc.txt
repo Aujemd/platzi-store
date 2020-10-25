@@ -1,0 +1,4 @@
+npm i jest enzyme enzyme-adapter-react-16 -D
+
+enzyme libreria de airbnb para pruebas de componentes
+adaptador enzyme-adapter-react-16
