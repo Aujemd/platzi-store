@@ -5,3 +5,8 @@ adaptador enzyme-adapter-react-16
 
 Los mocks son funciones que simulan acciones que deberia hacer nuestra app
 
+Snapshot
+
+Prueba para componentes visuales
+
+npm i react-test-renderer -D
