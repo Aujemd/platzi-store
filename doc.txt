@@ -10,3 +10,7 @@ Snapshot
 Prueba para componentes visuales
 
 npm i react-test-renderer -D
+
+actualizar Snapshot
+
+jest --updateSnapshot
