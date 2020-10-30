@@ -18,3 +18,7 @@ jest --updateSnapshot
 npm i jest-fetch-mock -D
 
 mock de fetch
+
+Crear cuenta en travis agregar el repo y agregar el token
+
+en el setup del token recordar darle permiso al repo y permiso al hook de leer
