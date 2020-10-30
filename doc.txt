@@ -14,3 +14,7 @@ npm i react-test-renderer -D
 actualizar Snapshot
 
 jest --updateSnapshot
+
+npm i jest-fetch-mock -D
+
+mock de fetch
